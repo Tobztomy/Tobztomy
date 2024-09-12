@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Django, Android, Data Science and Machine Learning**
 
-- 💬 Ask me about **python,java,html,css,**
+- 💬 Ask me about **python,java,html,css**
 
 - 📫 How to reach me **tobintomy1996@gmail.com**
 
