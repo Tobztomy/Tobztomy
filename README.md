@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tobztomy" alt="tobztomy" /></a> </p>
 
-- 🔭 I’m currently working on **AUCTIMO**
+- 🔭 I’m currently working on **AUCTIMO - Auction website**
 
 - 🌱 I’m currently learning **Django, Android, Data Science and Machine Learning**
-
-- 💬 Ask me about **python,java,html,css**
 
 - 📫 How to reach me **tobintomy1996@gmail.com**
 
