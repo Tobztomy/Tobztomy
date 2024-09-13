@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tobin K Tomy</h1>
-<h3 align="center">Exploring ML and AI.</h3>
+<h3 align="center">Exploring ML and AI</h3>
 
 <h2 align="center"> <img src="https://komarev.com/ghpvc/?username=tobztomy&label=Profile%20views&color=0e75b6&style=flat" alt="tobztomy" /> </h2>
 
