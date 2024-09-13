@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Django, Android, Data Science and Machine Learning**
 
-- 📫 How to reach me **tobintomy1996@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
